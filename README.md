@@ -36,12 +36,6 @@ With a strong computer literacy and also bilingual in **French/English**.
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=mali01001110&show_icons=true&theme=radical)
-
 
 ---
 
