@@ -1,4 +1,4 @@
-# "Hello, World" 👋, I'm Yann Zakpa
+# Hi there 👋, I'm Yann Zakpa
 
 ---
 
@@ -6,7 +6,7 @@
 
 I am passionate about computing, knowledgeable in computer maintenance, troubleshooting and web application development.  
 
-I am a Full‑stack software developer using Python and JavaScript, with a technical stack including React, Django, Postgres, Node.js and more... 
+I am a Full‑stack software developer using Python and JavaScript, with a technical stack including React, Django, Postgres, Node.js and more.  
 
 I hold a **Computer Science for Python Programming Professional Certificate** (Harvard Online, US) and a professional certification in **Cybersecurity** (CNFDI, France).  
 
@@ -36,6 +36,17 @@ With a strong computer literacy and also bilingual in **French/English**.
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
 </p>
 
+<p align="center">
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=linux,vscode,docker" />
+  <img src="https://img.shields.io/badge/Claude%20Code-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Yann's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mali01001110&show_icons=true&theme=radical)
 
 ---
 
@@ -43,5 +54,7 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 - [🌍 Website](http://www.yannzakpa.space)  
 - [🎵 TikTok](https://www.tiktok.com/@sometaprometa)  
-- [💼 LinkedIn](https://www.linkedin.com/in/mali01001110)
+- [💼 LinkedIn](https://www.linkedin.com/in/mali01001110)  
+- [🐙 GitHub](https://github.com/mali01001110)  
 - [📱 WhatsApp](https://wa.me/2250709390845)
+
