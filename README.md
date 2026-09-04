@@ -6,7 +6,7 @@
 
 I am passionate about computing, knowledgeable in computer maintenance, troubleshooting and web application development.  
 
-I am a Full‑stack software developer using Python and JavaScript, with a technical stack including React, Django, Postgres, Node.js and more.  
+I am a Full‑stack software developer using Python and JavaScript, with a technical stack including React, Django, Postgres, Node.js and more... 
 
 I hold a **Computer Science for Python Programming Professional Certificate** (Harvard Online, US) and a professional certification in **Cybersecurity** (CNFDI, France).  
 
