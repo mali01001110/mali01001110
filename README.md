@@ -44,12 +44,6 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Yann's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mali01001110&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 
 - [🌍 Website](http://www.yannzakpa.space)  
