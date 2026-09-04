@@ -18,7 +18,7 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
 <p align="center">
