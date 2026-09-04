@@ -42,6 +42,7 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 ![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=mali01001110&show_icons=true&theme=radical)
 
+
 ---
 
 ## 🌐 Connect with Me
