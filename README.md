@@ -1,4 +1,4 @@
-# "Hello, world!" 👋, I'm Yann Zakpa 🕉️☸️
+# "Hello, World!" 👋, I'm Yann Zakpa 🕉️☸️
 
 ---
 
