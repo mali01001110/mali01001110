@@ -43,5 +43,5 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 - [🌍 Website](http://www.yannzakpa.space)  
 - [🎵 TikTok](https://www.tiktok.com/@sometaprometa)  
-- [💼 LinkedIn](https://www.linkedin.com/in/mali01001110)  
-
+- [💼 LinkedIn](https://www.linkedin.com/in/mali01001110)
+- [📱 WhatsApp](https://wa.me/2250709390845)
