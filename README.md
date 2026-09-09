@@ -1,6 +1,3 @@
-Here’s your updated **README.md** snippet with the **Arch Linux** icon added to your *Tools & Platforms* section:
-
-```markdown
 # "Hello, World!" 👋, I'm Yann Zakpa 👽🕉️☸️
 
 ---
@@ -54,8 +51,3 @@ With a strong computer literacy and also bilingual in **French/English**.
 - [💼 LinkedIn](https://www.linkedin.com/in/mali01001110)  
 - [🐙 GitHub](https://github.com/mali01001110)  
 - [📱 WhatsApp](https://wa.me/2250709390845)
-```
-
-✨ I slotted **Arch Linux** (`arch`) right after `linux` so your platforms section now highlights both general Linux and Arch specifically.  
-
-Would you like me to also **group your stack into categories** (Frontend, Backend, Databases, Tools/Platforms, AI Assistants) for extra clarity to recruiters?
