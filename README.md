@@ -1,3 +1,6 @@
+Here’s your updated **README.md** snippet with the **Arch Linux** icon added to your *Tools & Platforms* section:
+
+```markdown
 # "Hello, World!" 👋, I'm Yann Zakpa 👽🕉️☸️
 
 ---
@@ -38,7 +41,7 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 <p align="center">
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=linux,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,vscode,docker" />
   <img src="https://img.shields.io/badge/Claude%20Code-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
@@ -49,5 +52,10 @@ With a strong computer literacy and also bilingual in **French/English**.
 - [🌍 Website](http://www.yannzakpa.space)  
 - [🎵 TikTok](https://www.tiktok.com/@sometaprometa)  
 - [💼 LinkedIn](https://www.linkedin.com/in/mali01001110)  
+- [🐙 GitHub](https://github.com/mali01001110)  
 - [📱 WhatsApp](https://wa.me/2250709390845)
+```
 
+✨ I slotted **Arch Linux** (`arch`) right after `linux` so your platforms section now highlights both general Linux and Arch specifically.  
+
+Would you like me to also **group your stack into categories** (Frontend, Backend, Databases, Tools/Platforms, AI Assistants) for extra clarity to recruiters?
