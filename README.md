@@ -45,6 +45,17 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mali01001110&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mali01001110&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mali01001110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=mali01001110&icon=6&color=4)](https://visitcount.itsvg.in)
+
+---
+
 ## 🌐 Connect with Me
 
 - [🌍 Website](http://www.yannzakpa.space)  
