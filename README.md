@@ -27,11 +27,6 @@ With a strong computer literacy and also bilingual in **French/English**.
 </p>
 
 <p align="center">
-  <!-- APIs -->
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
-<p align="center">
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
 </p>
