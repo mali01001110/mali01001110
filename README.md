@@ -39,11 +39,14 @@ With a strong computer literacy and also bilingual in **French/English**.
 <p align="center">
   <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=arch,vscode,docker,vercel" />
+</p>
+
+<p align="center">
+  <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20Code-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=white" />
 </p>
-
 
 ---
 
