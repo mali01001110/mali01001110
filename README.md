@@ -18,13 +18,35 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
+</p>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 <p align="center">
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,django,fastapi,flask,express,nodejs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 </p>
+
+<p align="center">
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+<p align="center">
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,express" />
+</p>
+
+<p align="center">
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+
 
 <p align="center">
   <!-- Databases -->
@@ -33,12 +55,22 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 <p align="center">
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=arch,vscode,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=arch,vscode,docker" />
 </p>
 
 <p align="center">
   <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+
+<p align="center">
+  <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Claude%20Code-%23000000.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=white" />
 </p>
