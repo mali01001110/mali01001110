@@ -28,12 +28,12 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 <p align="center">
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase" />
 </p>
 
 <p align="center">
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=arch,vscode,docker,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=arch,vscode,docker,vercel" />
 </p>
 
 <p align="center">
