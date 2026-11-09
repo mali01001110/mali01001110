@@ -23,7 +23,7 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 <p align="center">
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,django,fastapi,flask,express,nextjs,nodejs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,django,fastapi,flask,express,nodejs,bootstrap,tailwind" />
 </p>
 
 <p align="center">
