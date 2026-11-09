@@ -33,7 +33,7 @@ With a strong computer literacy and also bilingual in **French/English**.
 
 <p align="center">
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=arch,vscode,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=arch,vscode,docker,vercel,supabase" />
 </p>
 
 <p align="center">
